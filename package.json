@@ -1,0 +1,14 @@
+{
+  "name": "litelement-i18next-mixin",
+  "version": "1.0.0",
+  "description": "Mixin to use i18next in litelement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Víctor Lara Ortega <victorlara@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "i18next": "^11.3.3"
+  }
+}
